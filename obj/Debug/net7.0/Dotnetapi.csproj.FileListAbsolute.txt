@@ -1,0 +1,149 @@
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\appsettings.Development.json
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\appsettings.json
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Dotnetapi.exe
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Dotnetapi.deps.json
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Dotnetapi.runtimeconfig.json
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Dotnetapi.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Dotnetapi.pdb
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.csproj.AssemblyReference.cache
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.GeneratedMSBuildEditorConfig.editorconfig
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.AssemblyInfoInputs.cache
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.AssemblyInfo.cs
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.csproj.CoreCompileInputs.cache
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.MvcApplicationPartsAssemblyInfo.cs
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.MvcApplicationPartsAssemblyInfo.cache
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\staticwebassets\msbuild.Dotnetapi.Microsoft.AspNetCore.StaticWebAssets.props
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\staticwebassets\msbuild.build.Dotnetapi.props
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dotnetapi.props
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dotnetapi.props
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\staticwebassets.pack.json
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\staticwebassets.build.json
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\staticwebassets.development.json
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\scopedcss\bundle\Dotnetapi.styles.css
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.csproj.CopyComplete
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\refint\Dotnetapi.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.pdb
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\Dotnetapi.genruntimeconfig.cache
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\obj\Debug\net7.0\ref\Dotnetapi.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\AutoMapper.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Azure.Core.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Azure.Identity.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Dapper.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\System.Drawing.Common.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\System.Memory.Data.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\System.Security.Permissions.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+J:\Web dev\DotNetAPICourse-main\practic\Dotnetapi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dotnetapi\bin\Debug\net7.0\appsettings.Development.json
+D:\Dotnetapi\bin\Debug\net7.0\appsettings.json
+D:\Dotnetapi\bin\Debug\net7.0\Dotnetapi.exe
+D:\Dotnetapi\bin\Debug\net7.0\Dotnetapi.deps.json
+D:\Dotnetapi\bin\Debug\net7.0\Dotnetapi.runtimeconfig.json
+D:\Dotnetapi\bin\Debug\net7.0\Dotnetapi.dll
+D:\Dotnetapi\bin\Debug\net7.0\Dotnetapi.pdb
+D:\Dotnetapi\bin\Debug\net7.0\AutoMapper.dll
+D:\Dotnetapi\bin\Debug\net7.0\Azure.Core.dll
+D:\Dotnetapi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Dotnetapi\bin\Debug\net7.0\Dapper.dll
+D:\Dotnetapi\bin\Debug\net7.0\Humanizer.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Dotnetapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnetapi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Dotnetapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dotnetapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dotnetapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Dotnetapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnetapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.csproj.AssemblyReference.cache
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.AssemblyInfoInputs.cache
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.AssemblyInfo.cs
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.csproj.CoreCompileInputs.cache
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnetapi\obj\Debug\net7.0\staticwebassets\msbuild.Dotnetapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnetapi\obj\Debug\net7.0\staticwebassets\msbuild.build.Dotnetapi.props
+D:\Dotnetapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dotnetapi.props
+D:\Dotnetapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dotnetapi.props
+D:\Dotnetapi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Dotnetapi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Dotnetapi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Dotnetapi\obj\Debug\net7.0\scopedcss\bundle\Dotnetapi.styles.css
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.csproj.CopyComplete
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.dll
+D:\Dotnetapi\obj\Debug\net7.0\refint\Dotnetapi.dll
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.pdb
+D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.genruntimeconfig.cache
+D:\Dotnetapi\obj\Debug\net7.0\ref\Dotnetapi.dll
