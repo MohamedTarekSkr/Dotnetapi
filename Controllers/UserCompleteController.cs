@@ -22,8 +22,7 @@ public class UserCompleteController : ControllerBase
     [HttpGet("GetUsers/{userId}/{isActive}")]
     public IEnumerable<UserComplete> GetUsers(int userId, bool isActive)
     {
-        string sql = @"EXEC TutorialAppSchema.spUsers_Get
-            @UserId = = @UserIdParameter";
+        string sql = @"EXEC TutorialAppSchema.spUsers_Get";
         string stringParameter = "";
         DynamicParameters sqlParameters = new DynamicParameters();
 
@@ -62,14 +61,14 @@ public class UserCompleteController : ControllerBase
 
             DynamicParameters sqlParameters = new DynamicParameters();
             sqlParameters.Add("@FirstNameParameter", user.FirstName, DbType.String);
-            sqlParameters.Add("@LastNameParameter", user.FirstName, DbType.String);
-            sqlParameters.Add("@EmailParameter", user.FirstName, DbType.String);
-            sqlParameters.Add("@GenderParameter", user.FirstName, DbType.String);
-            sqlParameters.Add("@JobTitleParameter", user.FirstName, DbType.String);
-            sqlParameters.Add("@DepartmentParameter", user.FirstName, DbType.String);
-            sqlParameters.Add("@SalaryParameter", user.FirstName, DbType.Decimal);
-            sqlParameters.Add("@ActiveParameter", user.FirstName, DbType.Boolean);
-            sqlParameters.Add("@UserIdParameter", user.FirstName, DbType.Int32);
+            sqlParameters.Add("@LastNameParameter", user.LastName, DbType.String);
+            sqlParameters.Add("@EmailParameter", user.Email, DbType.String);
+            sqlParameters.Add("@GenderParameter", user.Gender, DbType.String);
+            sqlParameters.Add("@JobTitleParameter", user.JobTitle, DbType.String);
+            sqlParameters.Add("@DepartmentParameter", user.Department, DbType.String);
+            sqlParameters.Add("@SalaryParameter", user.Salary, DbType.Decimal);
+            sqlParameters.Add("@ActiveParameter", user.Active, DbType.Boolean);
+            sqlParameters.Add("@UserIdParameter", user.UserId, DbType.Int32);
 
         if(_dapper.ExecuteSqlWithParameters(sql, sqlParameters))
         {
