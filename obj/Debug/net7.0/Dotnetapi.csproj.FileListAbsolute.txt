@@ -147,3 +147,13 @@ D:\Dotnetapi\obj\Debug\net7.0\refint\Dotnetapi.dll
 D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.pdb
 D:\Dotnetapi\obj\Debug\net7.0\Dotnetapi.genruntimeconfig.cache
 D:\Dotnetapi\obj\Debug\net7.0\ref\Dotnetapi.dll
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.dll
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\refint\Dotnetapi.dll
+C:\Users\Dell\Desktop\C Sharp\DotnetApi\Dotnetapi\obj\Debug\net7.0\Dotnetapi.pdb

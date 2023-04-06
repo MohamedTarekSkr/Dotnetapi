@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Web dev\\DotNetAPICourse-main\\practic\\Dotnetapi\\Dotnetapi.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\C Sharp\\DotnetApi\\Dotnetapi\\Dotnetapi.csproj": {}
   },
   "projects": {
-    "J:\\Web dev\\DotNetAPICourse-main\\practic\\Dotnetapi\\Dotnetapi.csproj": {
+    "C:\\Users\\Dell\\Desktop\\C Sharp\\DotnetApi\\Dotnetapi\\Dotnetapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Web dev\\DotNetAPICourse-main\\practic\\Dotnetapi\\Dotnetapi.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\C Sharp\\DotnetApi\\Dotnetapi\\Dotnetapi.csproj",
         "projectName": "Dotnetapi",
-        "projectPath": "J:\\Web dev\\DotNetAPICourse-main\\practic\\Dotnetapi\\Dotnetapi.csproj",
-        "packagesPath": "C:\\Users\\H & M\\.nuget\\packages\\",
-        "outputPath": "J:\\Web dev\\DotNetAPICourse-main\\practic\\Dotnetapi\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\C Sharp\\DotnetApi\\Dotnetapi\\Dotnetapi.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\C Sharp\\DotnetApi\\Dotnetapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\H & M\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
